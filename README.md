@@ -1,16 +1,41 @@
-# React + Vite
+# Elevated Infrastructure — Official Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Engineer & Developers**  
+> *"Your Imagination, Our Vision"*
 
-Currently, two official plugins are available:
+A modern, premium, and fully responsive website for **Elevated Infrastructure**, an architecture and construction firm based in Chh. Sambhajinagar. This project showcases the firm's services, portfolio, and contact information with a focus on performance, bilingual accessibility, and elegant design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+Check out the live website here:  
+https://elevated-infrastructure.vercel.app/](https://elevated-infrastructure.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Dual Language Support**: Seamlessly switch between **English** and **Marathi** to serve a wider audience.
+- **Dark / Light Theme**: A sleek dark mode and a warm light mode for an enhanced user experience at any time of day.
+- **Editorial & Premium Design**: Minimalist, cinematic layout with generous whitespace and high-quality project imagery.
+- **Fully Responsive**: Mobile-first design that looks stunning on all devices—phones, tablets, and desktops.
+- **Project Portfolio**: Filterable gallery of residential, commercial, and interior projects with detailed case study pages.
+- **WhatsApp Integration**: Direct contact buttons and a floating WhatsApp widget for instant project inquiries.
+- **Google Maps**: Integrated map section to easily locate the office.
+- **Smooth Animations**: Subtle, performance-optimized animations using Framer Motion.
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| [React](https://react.dev/) | Frontend library for building the UI |
+| [Vite](https://vitejs.dev/) | Next-generation frontend tooling for fast builds |
+| [Tailwind CSS v4](https://tailwindcss.com/) | Utility-first CSS framework for rapid styling |
+| [Framer Motion](https://www.framer.com/motion/) | Animation library for smooth transitions |
+| [Lucide React](https://lucide.dev/) | Beautiful & consistent icon set |
+| [Vercel](https://vercel.com/) | Hosting and deployment platform |
+
+---
+
+## 📁 Project Structure
