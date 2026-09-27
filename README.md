@@ -8,7 +8,7 @@ A modern, premium, and fully responsive website for **Elevated Infrastructure**,
 ## 🌐 Live Demo
 
 Check out the live website here:  
-https://elevated-infrastructure.vercel.app/](https://elevated-infrastructure.vercel.app
+https://elevated-infrastructure.vercel.app
 
 ---
 
